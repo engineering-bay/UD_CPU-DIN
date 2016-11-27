@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CPU_DIN_boards_v1_0.PcbDoc   24.03.2016  21:59:24
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CPU_DIN_boards_v1_0.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          107              666.81 mm (26.25 Inch)
+T2        0.8mm (31.496mil)        Round          53               231.69 mm (9.12 Inch)
+T3        0.9mm (35.433mil)        Round          3                29.47 mm (1.16 Inch)
+T4        1mm (39.37mil)           Round          14               33.02 mm (1.30 Inch)
+T5        1.5mm (59.055mil)        Round          54               458.88 mm (18.07 Inch)
+T6        2.75mm (108.268mil)      Round          3                133.93 mm (5.27 Inch)
+T7        3.5mm (137.795mil)       Round          4                339.00 mm (13.35 Inch)
+---------------------------------------------------------------------------
+Totals                                            238              1892.79 mm (74.52 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

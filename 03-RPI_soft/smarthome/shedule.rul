@@ -1,0 +1,12 @@
+## Every day every minute log system parameters to file
+01 XXXX-XX-XX 7 XX:XX param_logger
+## Wake up PC at 6:30 every business day
+##02 XXXX-XX-XX 8 06:30 PC_Wakeup
+## Print water counter bill at 20th day of every month at 6:15 (if business day)
+##03 XXXX-XX-20 8 06:15 Bill_print
+## Print water counter bill at 20th day of every month at 11:15 (if holiday)
+##04 XXXX-XX-20 9 11:15 Bill_print
+## Battery voltage logger
+05 XXXX-XX-XX 7 00:00 Battery_logger
+## Budilnik
+##06 2013-01-XX 8 06:15 Budilnik
